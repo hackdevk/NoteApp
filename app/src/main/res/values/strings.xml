@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="add_note">Write your note</string>
+    <string name="add_note_hint">add your note</string>
+</resources>
